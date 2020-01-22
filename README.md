@@ -1,2 +1,3 @@
 **This is a Init file.**
-new line
+new line  
+try
